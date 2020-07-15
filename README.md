@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**gulywwx/gulywwx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me...  
 
-Here are some ideas to get you started:
+```javascript
+const guly = {
+            pronouns: "He" | "Him",
+            code: ["Go", "Python", "Bash", "Javascript"],
+            askMeAbout: ["web dev", "tech", "app dev"],
+            technologies: {
+                frontEnd: {
+                    js: ["React", "Angular"],
+                },
+                backEnd: {
+                    go: ["go-micro"],
+                    js: ["node", "express"],
+                    python: ["flask"]
+                },
+                devOps: ["Azure", "Docker🐳", "K8s", "Nginx"],
+                databases: ["PostgreSQL", "MySql"],
+            },
+        };
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
