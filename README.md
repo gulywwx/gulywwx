@@ -5,7 +5,7 @@
 const guly = {
             pronouns: "He" | "Him",
             code: ["Go", "Python", "Bash", "Javascript"],
-            askMeAbout: ["web dev", "tech", "app dev"],
+            askMeAbout: ["devops", "tech", "system monitoring"],
             technologies: {
                 frontEnd: {
                     js: ["React", "Angular"],
