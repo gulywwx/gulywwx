@@ -5,7 +5,7 @@
 const guly = {
             pronouns: "He" | "Him",
             code: ["Go", "Python", "Bash", "Javascript"],
-            askMeAbout: ["devops", "tech", "system monitoring"],
+            askMeAbout: ["Cloud", "devops", "tech", "system monitoring"],
             technologies: {
                 frontEnd: {
                     js: ["React", "Angular"],
@@ -15,7 +15,7 @@ const guly = {
                     js: ["node", "express"],
                     python: ["flask"]
                 },
-                devOps: ["Azure", "Docker🐳", "K8s", "Nginx"],
+                devOps: ["AWS", "Azure", "Docker🐳", "K8s", "Nginx"],
                 databases: ["PostgreSQL", "MySql"],
             },
         };
