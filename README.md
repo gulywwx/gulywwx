@@ -42,14 +42,14 @@ I’m senior Could Devops Engineer. I am most skilled in:
 ## 💻 Statistics
 
 
-<a href="https://github.com/mikonoid/mikonoid">
-  <img align="center" src="https://bad-apple-github-readme.vercel.app/api?username=mikonoid&show_icons=true&line_height=27&count_private=true" alt="mikonoid's GitHub Stats" />
+<a href="https://github.com/gulywwx/gulywwx">
+  <img align="center" src="https://bad-apple-github-readme.vercel.app/api?username=gulywwx&show_icons=true&line_height=27&count_private=true" alt="Gulywwx's GitHub Stats" />
 </a>
 
 <p>&nbsp;</p>
 
-<a href="https://github.com/mikonoid/mikonoid">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=mikonoid&column=7" />
+<a href="https://github.com/gulywwx/gulywwx">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=gulywwx&column=7" />
 </a>
 
 
