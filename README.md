@@ -18,17 +18,19 @@ I’m senior Could Devops Engineer. I am most skilled in:
 
 <h2>🚀 Tools/ Technologies/ What I use/used</h2>
 <p align="left">
-<img src="images/svgicons/microsoft_azure-icon.svg" alt="microsoft_azure" width="45" height="45" />
-<img src="images/svgicons/amazon_aws-icon.svg" alt="Aws" width="50" height="45" />            
-<img src="images/svgicons/python-icon.svg" alt="python" width="45" height="45" />
-<img src="images/svgicons/nginx-icon.svg" alt="nginx" width="45" height="45" />
-<img src="images/svgicons/bitbucket-icon.svg" alt="BitBucket" width="45" height="45" />
-<img src="images/svgicons/github-icon.svg" alt="Github" width="45" height="45" />
-<img src="images/svgicons/kubernetes-icon.svg" alt="Kubernetes" width="45" height="45" />
-<img src="images/svgicons/docker-icon.svg" alt="Docker" width="45" height="45" />
-<img src="images/svgicons/ansible-icon.svg" alt="Ansible" width="45" height="45" />
-<img src="images/svgicons/mariadb-icon.svg" alt="MariaDb" width="45" height="45" />
-<img src="images/svgicons/jenkins-icon.svg" alt="Jenkins" width="45" height="45" />
+<a href="https://azure.microsoft.com" target="_blank"><img src="images/svgicons/microsoft_azure-icon.svg" alt="microsoft_azure" width="45" height="45" /></a>
+<a href="https://aws.amazon.com" target="_blank"><img src="images/svgicons/amazon_aws-icon.svg" alt="Aws" width="50" height="45" /></a>  
+<a href="https://www.terraform.io/" target="_blank"><img src="images/svgicons/terraformio-icon.svg" alt="terraform" width="45" height="45"/></a>  
+<a href="https://www.python.org" target="_blank"><img src="images/svgicons/python-icon.svg" alt="python" width="45" height="45" /></a>
+<a href="https://www.nginx.com/" target="_blank"><img src="images/svgicons/nginx-icon.svg" alt="nginx" width="45" height="45" /></a>
+<a href="https://bitbucket.org/" target="_blank"><img src="images/svgicons/bitbucket-icon.svg" alt="BitBucket" width="45" height="45" /></a>
+<a href="https://github.com/" target="_blank"><img src="images/svgicons/github-icon.svg" alt="Github" width="45" height="45" /></a>
+<a href="https://kubernetes.io" target="_blank"><img src="images/svgicons/kubernetes-icon.svg" alt="Kubernetes" width="45" height="45" /></a>
+<a href="https://www.docker.com/" target="_blank"><img src="images/svgicons/docker-icon.svg" alt="Docker" width="45" height="45" /></a>
+<a href="https://www.ansible.com/" target="_blank"><img src="images/svgicons/ansible-icon.svg" alt="Ansible" width="45" height="45" /></a>
+<a href="https://mariadb.org/" target="_blank"><img src="images/svgicons/mariadb-icon.svg" alt="MariaDb" width="45" height="45" /></a>
+<a href="https://www.jenkins.io/" target="_blank"><img src="images/svgicons/jenkins-icon.svg" alt="Jenkins" width="45" height="45" /></a>
+<a href="https://www.elastic.co" target="_blank"> <img src="images/svgicons/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/></a>  
 </p>
 
 ## 🎖️ Certifications
