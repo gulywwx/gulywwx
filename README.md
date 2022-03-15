@@ -20,7 +20,7 @@ I’m senior Could Devops Engineer. I am most skilled in:
 <p align="left">
 <a href="https://azure.microsoft.com" target="_blank"><img src="images/svgicons/microsoft_azure-icon.svg" alt="microsoft_azure" width="45" height="45" /></a>
 <a href="https://aws.amazon.com" target="_blank"><img src="images/svgicons/amazon_aws-icon.svg" alt="Aws" width="50" height="45" /></a>  
-<a href="https://www.terraform.io/" target="_blank"><img src="images/svgicons/terraformio-icon.svg" alt="terraform" width="45" height="45"/></a>  
+<a href="https://www.terraform.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="45" height="45"/></a>  
 <a href="https://www.python.org" target="_blank"><img src="images/svgicons/python-icon.svg" alt="python" width="45" height="45" /></a>
 <a href="https://www.nginx.com/" target="_blank"><img src="images/svgicons/nginx-icon.svg" alt="nginx" width="45" height="45" /></a>
 <a href="https://bitbucket.org/" target="_blank"><img src="images/svgicons/bitbucket-icon.svg" alt="BitBucket" width="45" height="45" /></a>
