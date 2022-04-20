@@ -35,8 +35,8 @@ I’m senior Could Devops Engineer. I am most skilled in:
 
 ## 🎖️ Certifications
 
-<a title="AWS Certified Solutions Architect – Professional" href="https://www.credly.com/badges/dfe1fdcc-7d99-49a2-a3c7-94378325bbeb"><img height="60" src="https://images.credly.com/size/680x680/images/8e968853-15af-4bbc-9d03-cf518971909c/AWS-SolArchitect-Professional-2020.png"></a>
-<a title="WS Certified DevOps Engineer – Professional" href="https://www.credly.com/badges/4239ee46-6481-41cf-b6a5-c0d83297299b"><img height="60" src="https://images.credly.com/size/680x680/images/7fbb805d-ea82-4276-a227-e63121a2844b/AWS-DevOpsEngineer-Professional-2020.png"></a>
+<a title="AWS Certified Solutions Architect – Professional" href="https://www.credly.com/badges/dfe1fdcc-7d99-49a2-a3c7-94378325bbeb"><img height="60" src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png"></a>
+<a title="WS Certified DevOps Engineer – Professional" href="https://www.credly.com/badges/4239ee46-6481-41cf-b6a5-c0d83297299b"><img height="60" src="https://images.credly.com/size/680x680/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png"></a>
 <a title="Microsoft Certified: Azure Solutions Architect Expert" href="https://www.credly.com/badges/a4c3635c-fed4-4cfe-ae39-d2539a865a1d"><img height="60" src="https://images.credly.com/size/680x680/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png"></a>
 <a title="Microsoft Certified: Azure Network Engineer Associate" href="https://www.credly.com/badges/de61ddb3-c3f9-453b-addc-5365df19c583"><img height="60" src="https://images.credly.com/size/680x680/images/c3a2e51d-7984-48cc-a4cb-88d4e8487037/azure-network-engineer-associate-600x600.png"></a>
 
