@@ -7,10 +7,9 @@
 
 I’m senior Could Devops Engineer. I am most skilled in:
 
-- AWS
-- Azure
+- Azure/AWS
 - Terraform
-- Docker/Kubernetes
+- Kubernetes/Docker
 - Ansible
 - Jenkins
 - Python/Bash/Go
