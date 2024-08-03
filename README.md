@@ -45,11 +45,12 @@ I’m senior Could Devops Engineer. I am most skilled in:
 
 ## 🎖️ Certifications
 
+<a title="Microsoft Certified: Azure Solutions Architect Expert" href="https://www.credly.com/badges/a4c3635c-fed4-4cfe-ae39-d2539a865a1d" target="_blank"><img height="60" src="https://images.credly.com/size/680x680/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png"></a>
+<a title="Microsoft Certified: Azure Network Engineer Associate" href="https://www.credly.com/badges/de61ddb3-c3f9-453b-addc-5365df19c583" target="_blank"><img height="60" src="https://images.credly.com/size/680x680/images/c3a2e51d-7984-48cc-a4cb-88d4e8487037/azure-network-engineer-associate-600x600.png"></a>
 <a title="AWS Certified Solutions Architect – Professional" href="https://www.credly.com/badges/dfe1fdcc-7d99-49a2-a3c7-94378325bbeb" target="_blank"><img height="60" src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png"></a>
 <a title="AWS Certified DevOps Engineer – Professional" href="https://www.credly.com/badges/4239ee46-6481-41cf-b6a5-c0d83297299b" target="_blank"><img height="60" src="https://images.credly.com/size/680x680/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png"></a>
 <a title="AWS Certified Security – Specialty" href="https://www.credly.com/badges/a23c7891-8965-4012-825f-24b5f347f35a" target="_blank"><img height="60" src="https://images.credly.com/size/680x680/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png"></a>
-<a title="Microsoft Certified: Azure Solutions Architect Expert" href="https://www.credly.com/badges/a4c3635c-fed4-4cfe-ae39-d2539a865a1d" target="_blank"><img height="60" src="https://images.credly.com/size/680x680/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png"></a>
-<a title="Microsoft Certified: Azure Network Engineer Associate" href="https://www.credly.com/badges/de61ddb3-c3f9-453b-addc-5365df19c583" target="_blank"><img height="60" src="https://images.credly.com/size/680x680/images/c3a2e51d-7984-48cc-a4cb-88d4e8487037/azure-network-engineer-associate-600x600.png"></a>
+
 
 ---
 ## 💻 Statistics
