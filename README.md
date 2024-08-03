@@ -1,7 +1,7 @@
 # Cloud Devops Engineer 
 
 
-## About me
+## 👨‍💻 About me
 
 <img align="right" src="images/gifs/coder3.gif" width="500" height="320" />
 
@@ -36,7 +36,7 @@ I’m senior Could Devops Engineer. I am most skilled in:
 <a href="https://www.elastic.co" target="_blank"> <img src="images/svgicons/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/></a>  
 </p>
 
-## 👨‍💻 Connect with me
+## 👯 Connect with me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/xuefeng-x-82106835/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/joel" height="30" width="40" /></a>
