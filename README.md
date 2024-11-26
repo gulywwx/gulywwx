@@ -8,11 +8,11 @@
 I’m senior Could Devops Engineer. I am most skilled in:
 
 - Azure/AWS
-- Kubernetes/Docker
-- Helm
-- Terraform
-- Ansible
-- Bitbucket
+- Kubernetes/Docker/Helm
+- Terraform/Ansible
+- Linux
+- HAProxy/Consul
+- PostgreSQL/MariaDB
 - Python/Bash/Go
 
 
